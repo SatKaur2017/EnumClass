@@ -8,5 +8,6 @@ public class EnumClassTest {
         MonthYear monthname = new MonthYear(Month.MARCH);
         monthname.nameOfMonth();
         System.out.println(a+b);
+        System.out.println(a*b);
     }
 }
